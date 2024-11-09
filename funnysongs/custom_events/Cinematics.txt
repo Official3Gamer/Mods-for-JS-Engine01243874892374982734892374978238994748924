@@ -1,2 +1,0 @@
-Value 1 = activate (type 1)
-Value 2 = deactivate (type 2)
